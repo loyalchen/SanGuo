@@ -110,7 +110,7 @@ namespace MSC.RubikCube.Logic
                 this.SelectedDataRangeChanged += this.SubReport.DataSourceChanged;
             }
         }
-
+		//Drop
         public void DropReport()
         {
             if (this._isRootReport)
