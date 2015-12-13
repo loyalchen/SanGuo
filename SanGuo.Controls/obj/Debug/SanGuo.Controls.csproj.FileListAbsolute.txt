@@ -1,0 +1,7 @@
+F:\Projects\SanGuo2015\SanGuo.Controls\bin\Debug\SanGuo.Controls.dll
+F:\Projects\SanGuo2015\SanGuo.Controls\bin\Debug\SanGuo.Controls.pdb
+F:\Projects\SanGuo2015\SanGuo.Controls\obj\Debug\SanGuo.Controls.ColorHatch.resources
+F:\Projects\SanGuo2015\SanGuo.Controls\obj\Debug\SanGuo.Controls.csproj.GenerateResource.Cache
+F:\Projects\SanGuo2015\SanGuo.Controls\obj\Debug\SanGuo.Controls.dll
+F:\Projects\SanGuo2015\SanGuo.Controls\obj\Debug\SanGuo.Controls.pdb
+F:\Projects\SanGuo2015\SanGuo.Controls\obj\Debug\SanGuo.Controls.ComboGridView.resources

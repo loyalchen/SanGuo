@@ -1,0 +1,7 @@
+F:\Projects\SanGuo2015\SanGuo.Tools\bin\Debug\SanGuo.Tools.dll
+F:\Projects\SanGuo2015\SanGuo.Tools\bin\Debug\SanGuo.Tools.pdb
+F:\Projects\SanGuo2015\SanGuo.Tools\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\SanGuo2015\SanGuo.Tools\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\SanGuo2015\SanGuo.Tools\obj\Debug\SanGuo.Tools.csprojResolveAssemblyReference.cache
+F:\Projects\SanGuo2015\SanGuo.Tools\obj\Debug\SanGuo.Tools.dll
+F:\Projects\SanGuo2015\SanGuo.Tools\obj\Debug\SanGuo.Tools.pdb

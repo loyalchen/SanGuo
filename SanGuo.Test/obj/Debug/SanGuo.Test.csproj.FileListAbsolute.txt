@@ -1,0 +1,14 @@
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.Test.dll
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.Test.pdb
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.DAL.dll
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.Model.dll
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\Dapper.dll
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.DAL.pdb
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.Model.pdb
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\Dapper.pdb
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\Dapper.xml
+F:\Projects\SanGuo2015\SanGuo.Test\obj\Debug\SanGuo.Test.csprojResolveAssemblyReference.cache
+F:\Projects\SanGuo2015\SanGuo.Test\obj\Debug\SanGuo.Test.dll
+F:\Projects\SanGuo2015\SanGuo.Test\obj\Debug\SanGuo.Test.pdb
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.BLL.dll
+F:\Projects\SanGuo2015\SanGuo.Test\bin\Debug\SanGuo.BLL.pdb
